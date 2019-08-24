@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic_ui/in2.png</file>
+        <file>pic_ui/back1.png</file>
+        <file>pic_ui/in1.png</file>
+        <file>pic_ui/back2.png</file>
+        <file>pic_ui/daka.png</file>
+        <file>pic_ui/chui1.png</file>
+        <file>pic_ui/pai2 (2).png</file>
+        <file>pic_ui/xun1.png</file>
+        <file>pic_ui/face.png</file>
+        <file>pic_ui/lu1.png</file>
+        <file>pic_ui/day1.png</file>
+    </qresource>
+</RCC>
